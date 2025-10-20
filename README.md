@@ -1,5 +1,6 @@
 # Practica4-FundamentosDeSprintBo
 ## Gary Brayam Villca Machaca
+### Esta dividido en dos ramas para mayor comodidad
 
 **Este proyecto fue una práctica para entender cómo funciona un mini ORM (Object Relational Mapping) en Java. Aprendí a crear anotaciones personalizadas como @Entity, @Id, @GeneratedValue y @Column, y a usarlas para mapear clases Java con estructuras de datos simulando una base de datos en memoria.**
 
